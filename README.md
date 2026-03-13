@@ -41,5 +41,12 @@ netflix-eda-project
 │   └── netflix_eda.ipynb
 │
 ├── images
+│   ├── movies_vs_tvshows.png
+│   ├── movie_duration_distribution.png
+│   ├── rating_distribution.png
+│   ├── release_year_trend.png
+│   ├── top_10_countries.png
+│   └── top_genres.png
 │
 └── README.md
+
