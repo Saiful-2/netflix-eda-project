@@ -31,7 +31,7 @@ Seaborn
 * Most movies are 80–120 minutes long
 
 ## Project Structure
-
+```
 netflix-eda-project
 │
 ├── data
@@ -49,4 +49,5 @@ netflix-eda-project
 │   └── top_genres.png
 │
 └── README.md
+```
 
