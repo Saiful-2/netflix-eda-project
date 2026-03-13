@@ -30,6 +30,17 @@ Seaborn
 * USA produces the most titles
 * Most movies are 80–120 minutes long
 
+## Sample Visualizations
+
+### Movies vs TV Shows Distribution
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+
+### Release Year Trend
+![Release Year Trend](images/release_year_trend.png)
+
+### Top Producing Countries
+![Top Countries](images/top_10_countries.png)
+
 ## Project Structure
 ```
 netflix-eda-project
@@ -50,4 +61,5 @@ netflix-eda-project
 │
 └── README.md
 ```
+
 
