@@ -48,16 +48,20 @@ netflix-eda-project
 ├── data
 │   └── netflix_cleaned.csv
 │
-├── notebook
-│   └── netflix_eda.ipynb
-│
 ├── images
+│   ├── content_growth_rate.png
+│   ├── correlation_heatmap.png
 │   ├── movies_vs_tvshows.png
+│   ├── movies_vs_tvshows_trend.png
 │   ├── movie_duration_distribution.png
 │   ├── rating_distribution.png
 │   ├── release_year_trend.png
 │   ├── top_10_countries.png
+│   ├── top_directors.png
 │   └── top_genres.png
+│
+├── notebook
+│   └── netflix_eda.ipynb
 │
 └── README.md
 ```
