@@ -65,6 +65,13 @@ netflix-eda-project
 │
 └── README.md
 ```
+## Author
 
+**Mohammad Saiful Alam**
+
+- B.Sc. in Statistics  
+- M.S. in Statistics  
+- M.Sc. in Data Science and Machine Learning (ongoing)  
+- Research Officer, Bangladesh Forest Research Institute (BFRI)
 
 
